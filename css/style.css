@@ -3,7 +3,6 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    margin:171px 260px;
     font-family: 'Lexend Deca';
 }
 .card{
@@ -120,6 +119,9 @@ text-align: left;
     .sedans{
         border-radius: 8px 8px 0 0;
         
+    }
+    .container{
+        margin:48px 88px;
     }
 
     
