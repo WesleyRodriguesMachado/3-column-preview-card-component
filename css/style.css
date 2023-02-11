@@ -50,6 +50,7 @@ text-align: left;
 .btn-card.color-sedans{
     color: hsl(31, 77%, 52%);
     transition: 0.3s ease-in-out;
+    cursor: pointer;
    
 }
 
@@ -62,6 +63,7 @@ text-align: left;
 .btn-card.color-suvs{
     color:  hsl(184, 100%, 22%);
     transition: 0.3s ease-in-out;
+    cursor: pointer;
 }
 .btn-card.color-suvs:hover{
     border: solid 2px  #F2F2F2;
@@ -72,6 +74,7 @@ text-align: left;
 .btn-card.color-luxury{
     color: hsl(179, 100%, 13%);
     transition: 0.3s ease-in-out;
+    cursor: pointer;
 }
 
 .btn-card.color-luxury:hover{
